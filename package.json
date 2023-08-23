@@ -2,7 +2,11 @@
 	"name": "@tareqnmd/jscf",
 	"version": "1.0.0",
 	"description": "Javascript Common functions.",
-	"main": "index.js",
+	"main": "dist/index.umd.js",
+	"module": "dist/index.mjs",
+	"files": [
+		"dist/*"
+	],
 	"scripts": {
 		"build": "vite build",
 		"patch-publish": "vite build && npm version patch && npm publish --access public",
