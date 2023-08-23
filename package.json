@@ -5,7 +5,7 @@
 	"main": "dist/index.umd.js",
 	"module": "dist/index.mjs",
 	"files": [
-		"dist/*"
+		"dist"
 	],
 	"scripts": {
 		"build": "vite build",
