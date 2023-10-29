@@ -2,10 +2,10 @@
 	"name": "@tareqnmd/jslib",
 	"version": "1.0.1",
 	"description": "Javascript Common functions.",
-	"main": "dist/index.umd.js",
-	"module": "dist/index.mjs",
+	"main": "index.js",
 	"files": [
-		"dist"
+		"dist",
+		"index.js"
 	],
 	"scripts": {
 		"build": "vite build",
@@ -20,7 +20,7 @@
 	"keywords": [
 		"Javascript"
 	],
-	"author": "Mohammad Tareq",
+	"author": "Tareq",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/tareqnmd/jslib/issues"

@@ -1,13 +1,14 @@
-// vite.config.js
 import { defineConfig } from 'vite';
+
 export default defineConfig({
 	build: {
 		outDir: 'dist',
 		lib: {
-			entry: 'index.js',
-			name: '@tareqnmd/jscf',
-			fileName: 'index',
+			name: 'Anthill Component Library',
+			entry: {
+				index: './functions/index.js',
+			},
+			formats: ['es'],
 		},
-		formats: ['es', 'cjs'],
 	},
 });

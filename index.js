@@ -1,3 +1,1 @@
-export const helloThere = () => {
-	console.log('Hello There!');
-};
+export * from 'dist/index.mjs';
