@@ -1,6 +1,6 @@
 {
 	"name": "@tareqnmd/jslib",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Javascript Common functions.",
 	"main": "index.js",
 	"files": [
