@@ -1,5 +1,5 @@
 {
-	"name": "@tareqnmd/jslib",
+	"name": "@tareqnmd/js-lib",
 	"version": "1.0.5",
 	"description": "Javascript Common functions.",
 	"main": "index.js",
@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tareqnmd/jslib.git"
+		"url": "git+https://github.com/tareqnmd/js-lib.git"
 	},
 	"keywords": [
 		"Javascript"
@@ -23,9 +23,9 @@
 	"author": "Tareq",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/tareqnmd/jslib/issues"
+		"url": "https://github.com/tareqnmd/js-lib/issues"
 	},
-	"homepage": "https://github.com/tareqnmd/jslib#readme",
+	"homepage": "https://github.com/tareqnmd/js-lib#readme",
 	"dependencies": {
 		"vite": "^4.4.9"
 	}
