@@ -1,3 +1,6 @@
 # Javascript Common Function
 
-Javascript Common Function
+### Technology
+- Vite
+- Javascript
+
